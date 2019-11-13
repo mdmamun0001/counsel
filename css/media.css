@@ -1,0 +1,320 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+     /*head*/
+    .icon-color {
+    background-color: yellow!important;
+    font-size: 15px;
+}
+  /*slider*/
+.font-image {
+    top: 28px;
+    right: -325px;
+}
+.font-image img {
+    width: 25%;
+}
+/*take away*/
+.take-away{
+    padding-top:40px;
+    padding-bottom: 100px;
+}
+.take-content{
+    margin: 40px 0;
+}
+.tittle {
+    font-size: 18px;
+    letter-spacing: 0;
+    word-spacing: 0;
+}
+.sub-tittle {
+    font-size: 16px;
+ 
+}
+/*take away*/
+.take-away {
+    padding-bottom: 70px;
+}
+.box1 {
+     width: 0px; 
+     height: 0px; 
+}
+/*construct*/
+.construct {
+    padding: 70px 0;
+}
+/*graph*/
+.graph {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.take-content {
+    margin-top: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.box {
+    margin: 0 auto;
+}
+/*consultan*/
+.consultant-text p {
+    font-size: 16px;
+}
+.consultant{
+    padding-bottom: 20px;
+}
+/*popular service*/
+.service-head h1 {
+    font-size: 25px;
+}
+.service-head p {
+    font-size: 15px;
+}
+.card-body {
+    text-align: center;
+}
+.card-title {
+    font-size: 18px;
+}
+.card-text {
+    font-size: 14px;
+}
+/*counter*/
+/*counter*/
+.counter-content h1 {
+    letter-spacing: 2px;
+        font-size: 35px;
+}
+
+.counter-content p {
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+/*our-service*/
+.our-service{
+    padding: 80px 0!important;
+}
+/*sam*/
+.sam-content p {
+    font-size: 14px;
+}
+/*footer*/
+.footer-letf {
+    font-size: 13px;
+    margin-left: 6px;
+    margin-top: 8px;
+}
+.footer-left-right {
+    font-size: 13px;
+}
+.footer-right {
+    margin-right: 6px;
+    margin-top: 17px;
+}
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /*head*/
+    .icon-color{
+        background-color: yellow!important;
+    }
+  /*slider*/
+.font-image {
+    top: 44px;
+    right: -185px;
+}
+.font-image img {
+    width: 45%;
+}
+/*take away*/
+.take-away{
+    padding-top:40px;
+    padding-bottom: 100px;
+}
+.take-content{
+    margin: 60px 0;
+}
+.tittle {
+    font-size: 30px;
+    letter-spacing: 0;
+    word-spacing: 0;
+}
+.box1 {
+     width: 0px; 
+     height: 0px; 
+
+}
+/*construct*/
+
+/*consultan*/
+.consultant{
+    padding-bottom: 20px;
+}
+/*graph*/
+.graph {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.take-content {
+    margin-top: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.box {
+    margin: 0 auto;
+}
+/*popular service */
+
+.service-head p {
+    font-size: 16px;
+}
+.card-body {
+    text-align: center;
+}
+/*counter*/
+
+/*counter*/
+.counter-content h1 {
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+.counter-content p {
+    margin-bottom: 30px;
+}
+/*our-service*/
+.our-service{
+    padding: 80px 0!important;
+}
+/*sam*/
+.sam-content p {
+    font-size: 18px;
+}
+
+}
+
+ 
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*head*/
+    .icon-color{
+        background-color: yellow!important;
+    }
+    /*slider*/
+    .font-image {
+    top: 36px;
+    right: -27px;
+}
+.font-image img {
+    width: 65%;
+}
+/*take away*/
+.take-content{
+    margin: 80px 0;
+}
+.tittle {
+        font-size: 22px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+}
+
+.box1 {
+    width: 122px ;
+   height: 218px;
+    margin-left: 75px;
+}
+/*construct*/
+.m0{
+    margin: 0!important;
+}
+/*graph*/
+.graph {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 72px;
+}
+.take-content {
+   text-align: center;
+}
+.box {
+    margin: 0 auto;
+}
+/*consultant*/
+.consultant-text p {
+    font-size: 18px;
+}
+.btn-custom {
+    font-size: 15px;
+    margin-top: 22px;
+}
+.btn-custom:hover{
+    font-size:15px;
+    color: black;
+}
+/*counter*/
+.counter-content h1 {
+    letter-spacing: 2px;
+}
+
+/*service*/
+.service-head p {
+    font-size: 16px;
+}
+.card-title {
+    font-size: 14px;
+}
+.lc {
+    font-size: 14px;
+}
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*slider*/
+.font-image {
+    top: 100px;
+        right: 58px;
+}
+.font-image img {
+    width: 75%;
+}
+/*take away*/
+.tittle {
+    font-size: 28px;
+}
+.take-content{
+    /*margin: 90px 0;*/
+}
+.box1 {
+    width: 170px;
+     height: 174px;
+    background-color: #fde52c;
+    margin-left: 104px;
+}
+/*consultant*/
+.btn-custom {
+    margin-top: 26px;
+}
+/*counter*/
+.counter-content h1 {
+    letter-spacing: 5px;
+}
+/*contact*/
+.card-title{
+    font-size: 18px;
+}
+.lc {
+    font-size: 14px;
+}
+
+
+}	
+ /*/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
